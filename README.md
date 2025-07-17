@@ -10,5 +10,6 @@
 
         请把卡密验证部分逻辑删除，不然代码会在验证代理的时候终止。
         因为我的服务器过期了，无法验证你的卡密是不是有效的
-        
+        安装依赖 npm install axios chalk colors crypto fs http http2 https puppeteer puppeteer-extra puppeteer-extra-plugin-stealth tls url
+
 ![微信图片_20250123101806](https://github.com/user-attachments/assets/0d9c06ac-2189-4df7-ab93-b383e0bf6f42)
